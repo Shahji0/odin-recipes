@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lasagna {
+    color: red;
+    font-size: larger;
+}
+
+.pesto {
+    font-size: larger;
+    color: green;
+}
+
+.tacos {
+    font-size: larger;
+    color: orange;
+}

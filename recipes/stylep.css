@@ -1,0 +1,23 @@
+h1 {
+    color: green;
+    text-align: left;
+}
+
+h2 {
+    color: lightgreen;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+}
+
+p {
+    text-align: left;
+    border: 5px solid lightgreen;
+}
+
+li {
+    margin: 5px;
+    color: lightseagreen;
+}

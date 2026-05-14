@@ -1,0 +1,24 @@
+h1 {
+    text-align: left;
+    color: orange;
+}
+
+img {
+    display: block;
+    margin: 15px auto;
+}
+
+h2 {
+    color: rgb(238, 176, 60);
+}
+
+p {
+    color: orange;
+    font-size: 20px;
+}
+
+li {
+    margin: 5px;
+    color: rgb(243, 133, 24);
+    font-size: 17px;
+}
